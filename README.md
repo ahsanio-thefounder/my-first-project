@@ -1,4 +1,4 @@
-# My First Project
+# My First Project.
 
 Hi, I am learning programming and open-source.
 
