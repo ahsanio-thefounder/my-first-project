@@ -9,4 +9,4 @@ Goals:
 - Build useful apps
 - Share projects with others
 
-I am applying for Claude for Open Source program to improve my learning.# my-first-project
+I am applying for Claude for Open Source program to improve my learning.# my-first-project.
